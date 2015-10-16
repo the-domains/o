@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-16T07:57:25.977Z'
-dateModified: '2015-10-16T07:56:10.590Z'
+datePublished: '2015-10-16T08:05:55.770Z'
+dateModified: '2015-10-16T08:05:40.388Z'
 title: initial post.
 authors: []
 publisher:
@@ -21,8 +21,5 @@ url: initial-post/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fc83981-d0d4-4690-990f-015a760f0a8a.jpg)
-
-# initial post.
-
-#
+initial post.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a79f2ba-d047-4382-b00f-a1ff8a60839d.jpg)
